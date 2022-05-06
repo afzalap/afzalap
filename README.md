@@ -4,10 +4,11 @@ Hi 👋 My name is Afzal Ahmed Pinjar
 Web developer And Designer
 --------------------------
 
-* 🌍  I'm based in Dharwad, Karnataka, India
-* ✉️  You can contact me at [afzalap163@gmail.com](mailto:afzalap163@gmail.com)
-* 🧠  I'm learning Django, React, DSA
-* 🤝  I'm open to collaborating on Cloud Related Projects
+* 🌍  I'm based in Dharwad, Karnataka, India
+* ✉️  You can contact me at [afzalap163@gmail.com](mailto:afzalap163@gmail.com)
+* 🚀  I'm currently working on [Full Stack Django Web Application And Decentralized App](http:// )
+* 🧠  I'm learning Django, React, DSA
+* 🤝  I'm open to collaborating on Cloud Related Projects
 
 ### Skills
 
