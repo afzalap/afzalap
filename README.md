@@ -1,9 +1,6 @@
 Hi 👋 My name is Afzal Ahmed Pinjar
 ===================================
 
-Web developer And Designer
---------------------------
-
 * 🌍  I'm based in Dharwad, Karnataka, India
 * ✉️  You can contact me at [afzalap163@gmail.com](mailto:afzalap163@gmail.com)
 * 🚀  I'm currently working on [Full Stack Django Web Application And Decentralized App]
