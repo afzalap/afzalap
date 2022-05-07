@@ -5,7 +5,7 @@ Hi 👋 My name is Afzal Ahmed Pinjar
 * ✉️  You can contact me at [afzalap163@gmail.com](mailto:afzalap163@gmail.com)
 * 🚀  I'm currently working on [Full Stack Django Web Application And Decentralized App]
 * 🧠  I'm learning Django, React, DSA
-* 🤝  I'm open to collaborating on Cloud Related Projects
+<!-- * 🤝  I'm open to collaborating on Cloud Related Projects -->
 
 ### Skills
 
