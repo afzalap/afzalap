@@ -1,4 +1,4 @@
-Hi 👋 My name is Afzal Ahmed Pinjar
+Hi 👋 I'm Afzal Ahmed Pinjar
 ===================================
 
 * 🌍  I'm based in Dharwad, Karnataka, India
