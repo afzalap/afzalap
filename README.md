@@ -33,7 +33,7 @@ Hi 👋 I'm Afzal Ahmed Pinjar
 
 <p align="left"> <a href="https://www.github.com/afzalap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afzal-ahmed-pinjar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AfzalPinjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
@@ -44,3 +44,4 @@ Hi 👋 I'm Afzal Ahmed Pinjar
 <a href="http://www.github.com/afzalap"><img src="https://activity-graph.herokuapp.com/graph?username=afzalap&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/afzalap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalap&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ -->
