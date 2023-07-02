@@ -3,8 +3,6 @@ Hi 👋 I'm Afzal Ahmed Pinjar
 
 * 🌍  I'm based in Dharwad, Karnataka, India
 * ✉️  You can contact me at [afzal.ahmed.pinjar@gmail.com](mailto:afzal.ahmed.pinjar@gmail.com)
-* 🚀  I'm currently working on [Full Stack Django Web Application And Decentralized App]
-* 🧠  I'm learning Django, React, DSA
 <!-- * 🤝  I'm open to collaborating on Cloud Related Projects -->
 
 ### Skills
