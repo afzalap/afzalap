@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pinjar%20Afzal%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Application%20Developer%20%7C%20Tokyo%2C%20Japan&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afzal%20Ahmed%20Pinjar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Application%20Developer%20%7C%20Tokyo%2C%20Japan&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+Application+Developer;Kotlin+%26+Java+Enthusiast;Based+in+Tokyo%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;JLPT+N3+%7C+NAT-TEST+3Q)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ```kotlin
 val afzal = Developer(
-    name     = "Pinjar Afzal Ahmed",
+    name     = "Afzal Ahmed Pinjar",
     location = "Tokyo, Japan 🇯🇵",
     role     = "Android Application Developer",
     languages = listOf("Kotlin", "Java", "JavaScript", "Python", "C"),
@@ -39,7 +39,6 @@ val afzal = Developer(
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 #### Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
