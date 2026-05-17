@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afzal%20Ahmed%20Pinjar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Bilingual%20Software%20Engineer%20%7C%20Android%20%26%20Backend%20%7C%20Tokyo%2C%20Japan&descAlignY=55&descSize=16"/>
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afzal%20Ahmed%20Pinjar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Bilingual%20Software%20Engineer%20%7C%20Android%20and%20Backend%20%7C%20Tokyo%2C%20Japan&descAlignY=55&descSize=16"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Bilingual+Software+Engineer;Android+%26+Backend+Developer;Kotlin+%26+Java+%7C+Spring+Boot;Based+in+Tokyo%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;NAT-TEST+3Q+%7C+JLPT+N3+Equivalent)](https://git.io/typing-svg)
 
 </div>
