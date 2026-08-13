@@ -15,7 +15,7 @@ val afzal = Developer(
     location  = "Tokyo, Japan 🇯🇵",
     role      = "Bilingual Software Engineer (Android & Backend)",
     languages = listOf("Kotlin", "Java", "JavaScript", "C"),
-    japanese  = "NAT-TEST 3Q (JLPT N3 equivalent)",
+    japanese  = "NAT-TEST 2Q (JLPT N2 equivalent)",
     contact   = "afzal.ahmed.pinjar@gmail.com"
 )
 ```
